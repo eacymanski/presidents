@@ -1,0 +1,9 @@
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\bin\Debug\MatchThePresidents.exe.config
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\bin\Debug\MatchThePresidents.exe
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\bin\Debug\MatchThePresidents.pdb
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.csprojResolveAssemblyReference.cache
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.presidentsForm.resources
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.Properties.Resources.resources
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.csproj.GenerateResource.Cache
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.exe
+c:\users\liz\documents\visual studio 2013\Projects\MatchThePresidents\MatchThePresidents\obj\Debug\MatchThePresidents.pdb
